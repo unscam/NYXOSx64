@@ -9,6 +9,8 @@ Right now it ships as a **compiled .exe only** (no source code included yet), wi
 
 ---
 
+## BEFORE STARTING PLEASE READ ALL FILES IN 'LEGAL/'
+
 ## ✨ What NYXOSx64 Does
 
 ### 🖥 Custom Desktop Environment
@@ -95,3 +97,6 @@ NYXOSx64/
  │    ├── SUPPORT.md
  │    └── CODE_OF_CONDUCT.md
  └── README.md
+
+
+
