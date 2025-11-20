@@ -1,6 +1,8 @@
 # 🌌 NYXOSx64  
 A Modern Desktop Environment EXE by NYX Studios
 
+> **BEFORE STARTING, PLEASE READ ALL FILES IN [LEGAL/](LEGAL/)**  
+
 NYXOSx64 is a custom desktop environment and launcher built by **NYX Studios** for 64-bit Windows systems.  
 Right now it ships as a **compiled .exe only** (no source code included yet), with plans to make it **open source in the future** once things are stable and cleaned up.
 
@@ -8,8 +10,6 @@ Right now it ships as a **compiled .exe only** (no source code included yet), wi
 > **Planned:** Public source release later under a proper license.
 
 ---
-
-## BEFORE STARTING PLEASE READ ALL FILES IN 'LEGAL/'
 
 ## ✨ What NYXOSx64 Does
 
@@ -60,7 +60,7 @@ Right now it ships as a **compiled .exe only** (no source code included yet), wi
 
 NYXOSx64 is currently **closed-source** and fully protected under NYX Studios’ proprietary license.
 
-Planned path (no ETA promised, but this is the direction):
+Planned path (no ETA promised):
 
 - Clean up internal codebase  
 - Strip anything sensitive / environment-specific  
@@ -79,8 +79,6 @@ Until then: **assume EXE-only, no source distribution rights.**
 
 ## 📁 Repo / File Layout (High-Level)
 
-This is the intended structure for the repo side, not the full internal build tree:
-
 ```text
 NYXOSx64/
  ├── NYXOSx64.exe          # Main compiled binary (release artifact)
@@ -97,6 +95,3 @@ NYXOSx64/
  │    ├── SUPPORT.md
  │    └── CODE_OF_CONDUCT.md
  └── README.md
-
-
-
